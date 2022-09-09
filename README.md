@@ -1,4 +1,4 @@
-# Where_To_Live_In_SanFrancisco
+# Where To Live In SanFrancisco ([Slides](https://docs.google.com/presentation/d/1A4bxRfdiqjbSY4pCcoPSZm1bHw-3tSTD3vUeH-7vBHk/edit?usp=sharing))
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
